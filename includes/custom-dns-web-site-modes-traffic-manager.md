@@ -1,0 +1,3 @@
+Definir um nome de domínio personalizado numa aplicação web na aplicação de serviço de Azure que é pelo Gestor de tráfego de balanceamento de carga só está disponível para sites públicos do modo **padrão** . Antes de mudar de uma aplicação web do modo de plano de serviço gratuito de aplicação para o modo partilhado, Basic ou padrão, tem primeiro de remover despesas maiúsculas no local para a sua subscrição de aplicação de serviço. 
+
+Para obter mais informações sobre os modos de plano de serviço de aplicação, incluindo como alterar o modo do seu site, consulte o artigo [como dimensionar web sites](../articles/app-service-web/web-sites-scale.md).

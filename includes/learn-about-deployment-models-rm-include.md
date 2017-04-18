@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Azure tem dois modelos de implementação diferentes para criar e trabalhar com recursos: [Gestor de recursos e clássica](../articles/resource-manager-deployment-model.md).  Este artigo aborda a utilizar o modelo de implementação do Gestor de recursos, o que a Microsoft recomenda-se para a maioria dos implementações nova em vez do

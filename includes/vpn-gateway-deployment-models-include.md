@@ -1,0 +1,5 @@
+É importante compreender que Azure atualmente funciona com os modelos de implementação dois: Gestor de recursos e clássica. Antes de começar a sua configuração, certifique-se de que está a utilizar as instruções para o modelo de implementação que pretende trabalhar. Dois modelos não estão completamente compatíveis com os outros.
+
+Por exemplo, se estiver a trabalhar com uma rede virtual que foi criada utilizando o modelo clássico de implementação e queria adicionar uma ligação para o VNet, utilizaria os métodos de implementação que correspondem ao modelo de implementação clássico, não o Gestor de recursos. Se estiver a trabalhar com uma rede virtual que foi criada utilizando o modelo de implementação do Gestor de recursos, utilizaria os métodos de implementação que correspondem com o Gestor de recursos, não clássica.
+
+Para obter informações acerca dos modelos de implementação, consulte [Noções sobre o Gestor de recursos de implementação e implementação clássica](../articles/resource-manager-deployment-model.md).

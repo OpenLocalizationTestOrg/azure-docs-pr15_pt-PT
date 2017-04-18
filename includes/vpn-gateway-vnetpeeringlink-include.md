@@ -1,0 +1,1 @@
+Também é possível ligar VNets sem utilizar um gateway VPN. Se o VNets estiverem na mesma região, poderá querer ter em consideração ligá-las utilizando VNet efectuado. Para mais informações, consulte o artigo [VNet efectuado](../articles/virtual-network/virtual-network-peering-overview.md) .

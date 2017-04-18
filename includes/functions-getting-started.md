@@ -1,0 +1,3 @@
+Funções Azure é uma experiência condicionada por eventos, cluster a pedido que se expande a plataforma de aplicação Azure existente com capacidades para implementar o código acionado ao eventos que ocorram noutras Azure serviços, produtos SaaS e sistemas de no local. Com as funções de Azure, as aplicações com base no pedido de escala e pagar apenas para os recursos que consumir. Funções Azure fornece uma interface de utilizador intuitiva, baseado em browser, permitindo-lhe criar agendado ou acionou partes de código implementado numa variedade de linguagens de programação. 
+
+Este vídeo de introdução mostra como criar uma aplicação de função, modifique o código, bem como interagir com accionadores e enlaces.

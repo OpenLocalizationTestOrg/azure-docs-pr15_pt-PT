@@ -1,0 +1,4 @@
+
+* [Registe-se um ID de aplicação para a sua aplicação](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingProfiles/MaintainingProfiles.html#//apple_ref/doc/uid/TP40012582-CH30-SW991). Criar um ID de aplicação explícita (não uma caracteres universais ID da aplicação) e, de **ID do pacote**, utilize o exata **ID de pacote** que está no projeto Xcode guia de introdução. Também é crucial que verifica a opção de **Notificações de emissão** . 
+
+* Seguinte, [para se preparar para configurar as notificações push](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/AddingCapabilities/AddingCapabilities.html#//apple_ref/doc/uid/TP40012582-CH26-SW6), criar um "Desenvolvimento" ou "Distribuição" certificado SSL.

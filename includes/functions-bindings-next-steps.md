@@ -1,0 +1,1 @@
+Para obter informações sobre outros enlaces e accionadores Azure funções, consulte o artigo [Azure funções accionadores e referência para programadores de enlaces](../articles/azure-functions/functions-triggers-bindings.md)

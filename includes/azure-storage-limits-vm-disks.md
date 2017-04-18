@@ -1,0 +1,7 @@
+Uma máquina virtual Azure suporta como anexar um número de discos de dados. Para um desempenho ideal, irá pretende limitar o número de discos altamente utilizados ligados à máquina virtual para evitar possíveis limitação. Se não estão a ser utilizados altamente todos os discos ao mesmo tempo, a conta de armazenamento pode suportar um discos maiores do número.
+
+- **Para contas de armazenamento padrão:** Uma conta de armazenamento padrão tem uma taxa de pedido de total máximo de 20.000 IOPS. O total IOPS através de todos os seus discos máquina virtual numa conta armazenamento padrão não deve exceder este limite.
+
+    Aproximadamente pode calcular o número de discos altamente utilizados suportado pela conta de armazenamento único padrão com base no limite da taxa pedido. Por exemplo, para um VM camada básicas, o número máximo de discos altamente utilizados está sobre 66 (20.000/300 IOPS por disco) bem como para uma VM camada padrão, está prestes a 40 (500/20.000 IOPS por disco), conforme apresentado na tabela abaixo. 
+ 
+- **Para contas de armazenamento premium:** Uma conta de armazenamento premium tem uma taxa de débito total máximo de 50 Gbps. O débito total em todos os seus discos VM não deve exceder este limite.
