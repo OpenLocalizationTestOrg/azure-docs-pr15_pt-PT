@@ -1,0 +1,3 @@
+Um balanceador de carga interno Azure (ILB) fornece balanceamento de rede entre as máquinas virtuais que residem no interior de um serviço de nuvem, ou uma rede virtual com um âmbito regional.
+
+Para obter informações sobre a utilização e configuração de redes virtuais com um âmbito regional, consulte [Redes virtuais regionais](../articles/virtual-network/virtual-networks-migrate-to-regional-vnet.md). Redes virtuais existentes que foram configuradas para um grupo de afinidade não é possível utilizar ILB.
