@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> O ficheiro .publishsettings contém as suas credenciais (não codificadas) que são utilizadas para administrar a sua subscrições Azure e serviços. O procedimento recomendado de segurança este ficheiro é armazená-lo temporariamente fora da sua directórios de origem (por exemplo, na pasta Libraries\Documents) e, em seguida, elimine-o quando a importação estiver concluída. Um utilizador malicioso que obtém acesso ao ficheiro .publishsettings pode editar, criar e eliminar os seus serviços Azure.
